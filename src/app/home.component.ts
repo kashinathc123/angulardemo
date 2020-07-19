@@ -17,8 +17,7 @@ export class HomeComponent implements OnInit{
         // this.appSer.getData().subscribe((res: any)=>{
         //     console.log(res.userId);
         //     this.sendData(res.userId)
-        // });
-        
+        // });        
     }
 
     sendData(id){
