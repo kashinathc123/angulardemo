@@ -18,6 +18,7 @@ export class HomeComponent implements OnInit{
         //     console.log(res.userId);
         //     this.sendData(res.userId)
         // });
+        
     }
 
     sendData(id){
